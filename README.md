@@ -1,3 +1,5 @@
+Ken macpherson test angular cli version 1.2
+
 # NgHelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
